@@ -21,7 +21,7 @@ for (let i = 0; i < ownerlist.length; i += 2) {
     global.owner.push(owner);
 }
 
-//global.pairingNumber = "" //put your bot number here
+global.pairingNumber = "944407161851" //put your bot number here
 
 global.mods = ['944407161851']
 global.prems = ['944407161851']
@@ -79,7 +79,7 @@ global.dygp = 'https://chat.whatsapp.com/F3sB3pR3tClBvVmlIkqDJp'
 global.fgsc = 'https://github.com/'
 global.fgyt = 'https://youtube.com/'
 global.fgpyp = 'https://youtube.com/'
-global.fglog = 'https://raw.githubusercontent.com/Guru322/api/Guru/guru.jpg'
+global.fglog = 'https://itsbotdevfather.vercel.app/assets/images/portrait.png'
 global.thumb = fs.readFileSync('./Assets/Gurulogo.jpg')
 
 global.wait = '*⌛ _Charging..._*\n*▰▰▰▱▱▱▱▱*'
